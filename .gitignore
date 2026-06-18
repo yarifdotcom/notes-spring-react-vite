@@ -5,6 +5,10 @@ notes-ui/dist/
 # Spring Boot
 notes-api/target/
 
+# Environment
+.env
+**/.env
+
 # IDE
 .vscode/
 .idea/
