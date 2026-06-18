@@ -1,0 +1,16 @@
+# React
+notes-ui/node_modules/
+notes-ui/dist/
+
+# Spring Boot
+notes-api/target/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
